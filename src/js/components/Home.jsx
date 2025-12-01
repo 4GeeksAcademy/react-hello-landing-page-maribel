@@ -17,16 +17,16 @@ const Home = () => {
 		<Jumbotron />
 		<div className="container">
 			<div className="card-group">
-				<div class="card">
+				<div className="card">
 					<Card />
 				</div>
-				<div class="card">
+				<div className="card">
 					<Card />
 				</div>
-				<div class="card">
+				<div className="card">
 					<Card />
 				</div>
-				<div class="card">
+				<div className="card">
 					<Card />
 				</div>
 			</div>
